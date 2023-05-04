@@ -1,0 +1,54 @@
+# Xcode
+#
+.DS_Store
+xcuserdata
+*.xcodeproj/xcuserdata
+*.xcworkspace/xcuserdata
+*.xccheckout
+DerivedData
+*.swiftpm
+
+# Build products
+#
+*.build
+*.builtProducts
+
+# CocoaPods
+#
+Pods/
+*.lock
+*.xcconfig
+Podfile.lock
+Manifest.lock
+
+# Carthage
+#
+Carthage/Build
+
+# Swift Package Manager
+#
+.build/
+Package.resolved
+
+# fastlane
+#
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Other
+#
+.idea/
+*.jks
+*.keystore
+gradle.properties
+.gradle/
+.gradle-cache/
+/local.properties
+/local.properties
+/.externalNativeBuild
+/cmake-build-debug
+/cmake-build-release
+/CMakeFiles/
+
