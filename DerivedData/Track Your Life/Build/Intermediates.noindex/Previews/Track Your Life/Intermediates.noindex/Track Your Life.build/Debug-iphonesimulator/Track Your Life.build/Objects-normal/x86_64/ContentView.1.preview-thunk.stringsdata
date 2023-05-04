@@ -1,0 +1,16 @@
+{
+  "source": "/Users/mariana/dev/Track Your Life/DerivedData/Track Your Life/Build/Intermediates.noindex/Previews/Track Your Life/Intermediates.noindex/Track Your Life.build/Debug-iphonesimulator/Track Your Life.build/Objects-normal/x86_64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Habit name"
+      },
+      {
+        "comment": "",
+        "key": "Add Habit"
+      }
+    ]
+  },
+  "version": 1
+}

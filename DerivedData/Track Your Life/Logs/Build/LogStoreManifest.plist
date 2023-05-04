@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>030674F7-3A24-4A3A-A2D2-080153D1573B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>030674F7-3A24-4A3A-A2D2-080153D1573B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704908378.89976299</real>
+			<key>timeStoppedRecording</key>
+			<real>704908379.75592601</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>030674F7-3A24-4A3A-A2D2-080153D1573B</string>
+		</dict>
+		<key>1B55C666-F6C7-41EF-B65A-D1F814ADCA4F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B55C666-F6C7-41EF-B65A-D1F814ADCA4F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907845.74119997</real>
+			<key>timeStoppedRecording</key>
+			<real>704907846.36750698</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>1B55C666-F6C7-41EF-B65A-D1F814ADCA4F</string>
+		</dict>
+		<key>305D02F6-24F3-434E-AF1D-F681BEAC4359</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>305D02F6-24F3-434E-AF1D-F681BEAC4359.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907540.58255994</real>
+			<key>timeStoppedRecording</key>
+			<real>704907542.08139396</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>305D02F6-24F3-434E-AF1D-F681BEAC4359</string>
+		</dict>
+		<key>64C5BCB5-EABE-488F-8E56-3B773AE50E9F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>64C5BCB5-EABE-488F-8E56-3B773AE50E9F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704908491.02137101</real>
+			<key>timeStoppedRecording</key>
+			<real>704908492.80938101</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>64C5BCB5-EABE-488F-8E56-3B773AE50E9F</string>
+		</dict>
+		<key>662C08BD-E767-423B-8C0E-7EB8E2DFE2BA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>662C08BD-E767-423B-8C0E-7EB8E2DFE2BA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704908479.05315101</real>
+			<key>timeStoppedRecording</key>
+			<real>704908479.58389497</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>662C08BD-E767-423B-8C0E-7EB8E2DFE2BA</string>
+		</dict>
+		<key>6FB19165-FEBE-4B5D-81E4-CF2B7E9F43AD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6FB19165-FEBE-4B5D-81E4-CF2B7E9F43AD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907558.18474603</real>
+			<key>timeStoppedRecording</key>
+			<real>704907558.69506896</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>6FB19165-FEBE-4B5D-81E4-CF2B7E9F43AD</string>
+		</dict>
+		<key>7A611EAA-4BBB-4F5F-8D60-C249A6A6E108</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A611EAA-4BBB-4F5F-8D60-C249A6A6E108.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704908541.19645095</real>
+			<key>timeStoppedRecording</key>
+			<real>704908542.48494804</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>7A611EAA-4BBB-4F5F-8D60-C249A6A6E108</string>
+		</dict>
+		<key>81DAF75A-B503-4F1E-AC93-834821A0314E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81DAF75A-B503-4F1E-AC93-834821A0314E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704908354.37206495</real>
+			<key>timeStoppedRecording</key>
+			<real>704908355.52168405</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>81DAF75A-B503-4F1E-AC93-834821A0314E</string>
+		</dict>
+		<key>82FFDCFD-E1DE-4C7E-95F4-A906B565B41C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>82FFDCFD-E1DE-4C7E-95F4-A906B565B41C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907928.250126</real>
+			<key>timeStoppedRecording</key>
+			<real>704907929.30221605</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>82FFDCFD-E1DE-4C7E-95F4-A906B565B41C</string>
+		</dict>
+		<key>8DE7C0E7-F92B-49BB-8225-D87FB152C2F4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8DE7C0E7-F92B-49BB-8225-D87FB152C2F4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704908531.33061695</real>
+			<key>timeStoppedRecording</key>
+			<real>704908532.940171</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>8DE7C0E7-F92B-49BB-8225-D87FB152C2F4</string>
+		</dict>
+		<key>A1EB6B1D-7BD0-4568-9C4B-51E685E8F139</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1EB6B1D-7BD0-4568-9C4B-51E685E8F139.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907788.80564499</real>
+			<key>timeStoppedRecording</key>
+			<real>704907789.88753998</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>A1EB6B1D-7BD0-4568-9C4B-51E685E8F139</string>
+		</dict>
+		<key>AB457BFE-62F6-4230-B0CD-FF68146E60E4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AB457BFE-62F6-4230-B0CD-FF68146E60E4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907766.70499206</real>
+			<key>timeStoppedRecording</key>
+			<real>704907767.48536503</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>AB457BFE-62F6-4230-B0CD-FF68146E60E4</string>
+		</dict>
+		<key>C4067501-D80B-4D54-B7C7-394D7C12A49E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C4067501-D80B-4D54-B7C7-394D7C12A49E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704906741.26040399</real>
+			<key>timeStoppedRecording</key>
+			<real>704906754.12939894</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>C4067501-D80B-4D54-B7C7-394D7C12A49E</string>
+		</dict>
+		<key>E2A96B03-932E-4DC4-95ED-26112AB724DE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E2A96B03-932E-4DC4-95ED-26112AB724DE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704908434.84139299</real>
+			<key>timeStoppedRecording</key>
+			<real>704908435.67851698</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>E2A96B03-932E-4DC4-95ED-26112AB724DE</string>
+		</dict>
+		<key>EBCC0419-58CC-45E4-B135-03814DE4D314</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EBCC0419-58CC-45E4-B135-03814DE4D314.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907543.79128599</real>
+			<key>timeStoppedRecording</key>
+			<real>704907544.43661201</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>EBCC0419-58CC-45E4-B135-03814DE4D314</string>
+		</dict>
+		<key>EC5080B1-2E7F-4370-BD5B-FE1BEBCDF754</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EC5080B1-2E7F-4370-BD5B-FE1BEBCDF754.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Track Your Life project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Track Your Life</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>timeStartedRecording</key>
+			<real>704907074.37196696</real>
+			<key>timeStoppedRecording</key>
+			<real>704907076.67502797</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>EC5080B1-2E7F-4370-BD5B-FE1BEBCDF754</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

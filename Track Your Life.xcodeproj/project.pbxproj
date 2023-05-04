@@ -1,0 +1,582 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5620F8742A0405E70009A24E /* Track_Your_LifeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5620F8732A0405E70009A24E /* Track_Your_LifeApp.swift */; };
+		5620F8762A0405E70009A24E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5620F8752A0405E70009A24E /* ContentView.swift */; };
+		5620F8782A0405EA0009A24E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5620F8772A0405EA0009A24E /* Assets.xcassets */; };
+		5620F87B2A0405EA0009A24E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5620F87A2A0405EA0009A24E /* Preview Assets.xcassets */; };
+		5620F8852A0405EA0009A24E /* Track_Your_LifeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5620F8842A0405EA0009A24E /* Track_Your_LifeTests.swift */; };
+		5620F88F2A0405EA0009A24E /* Track_Your_LifeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5620F88E2A0405EA0009A24E /* Track_Your_LifeUITests.swift */; };
+		5620F8912A0405EA0009A24E /* Track_Your_LifeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5620F8902A0405EA0009A24E /* Track_Your_LifeUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		5620F8812A0405EA0009A24E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5620F8682A0405E70009A24E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5620F86F2A0405E70009A24E;
+			remoteInfo = "Track Your Life";
+		};
+		5620F88B2A0405EA0009A24E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5620F8682A0405E70009A24E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5620F86F2A0405E70009A24E;
+			remoteInfo = "Track Your Life";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		5620F8702A0405E70009A24E /* Track Your Life.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Track Your Life.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5620F8732A0405E70009A24E /* Track_Your_LifeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track_Your_LifeApp.swift; sourceTree = "<group>"; };
+		5620F8752A0405E70009A24E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		5620F8772A0405EA0009A24E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		5620F87A2A0405EA0009A24E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5620F8802A0405EA0009A24E /* Track Your LifeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Track Your LifeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5620F8842A0405EA0009A24E /* Track_Your_LifeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track_Your_LifeTests.swift; sourceTree = "<group>"; };
+		5620F88A2A0405EA0009A24E /* Track Your LifeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Track Your LifeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5620F88E2A0405EA0009A24E /* Track_Your_LifeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track_Your_LifeUITests.swift; sourceTree = "<group>"; };
+		5620F8902A0405EA0009A24E /* Track_Your_LifeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Track_Your_LifeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5620F86D2A0405E70009A24E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5620F87D2A0405EA0009A24E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5620F8872A0405EA0009A24E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5620F8672A0405E70009A24E = {
+			isa = PBXGroup;
+			children = (
+				5620F8722A0405E70009A24E /* Track Your Life */,
+				5620F8832A0405EA0009A24E /* Track Your LifeTests */,
+				5620F88D2A0405EA0009A24E /* Track Your LifeUITests */,
+				5620F8712A0405E70009A24E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5620F8712A0405E70009A24E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5620F8702A0405E70009A24E /* Track Your Life.app */,
+				5620F8802A0405EA0009A24E /* Track Your LifeTests.xctest */,
+				5620F88A2A0405EA0009A24E /* Track Your LifeUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5620F8722A0405E70009A24E /* Track Your Life */ = {
+			isa = PBXGroup;
+			children = (
+				5620F8732A0405E70009A24E /* Track_Your_LifeApp.swift */,
+				5620F8752A0405E70009A24E /* ContentView.swift */,
+				5620F8772A0405EA0009A24E /* Assets.xcassets */,
+				5620F8792A0405EA0009A24E /* Preview Content */,
+			);
+			path = "Track Your Life";
+			sourceTree = "<group>";
+		};
+		5620F8792A0405EA0009A24E /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				5620F87A2A0405EA0009A24E /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5620F8832A0405EA0009A24E /* Track Your LifeTests */ = {
+			isa = PBXGroup;
+			children = (
+				5620F8842A0405EA0009A24E /* Track_Your_LifeTests.swift */,
+			);
+			path = "Track Your LifeTests";
+			sourceTree = "<group>";
+		};
+		5620F88D2A0405EA0009A24E /* Track Your LifeUITests */ = {
+			isa = PBXGroup;
+			children = (
+				5620F88E2A0405EA0009A24E /* Track_Your_LifeUITests.swift */,
+				5620F8902A0405EA0009A24E /* Track_Your_LifeUITestsLaunchTests.swift */,
+			);
+			path = "Track Your LifeUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5620F86F2A0405E70009A24E /* Track Your Life */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5620F8942A0405EA0009A24E /* Build configuration list for PBXNativeTarget "Track Your Life" */;
+			buildPhases = (
+				5620F86C2A0405E70009A24E /* Sources */,
+				5620F86D2A0405E70009A24E /* Frameworks */,
+				5620F86E2A0405E70009A24E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Track Your Life";
+			productName = "Track Your Life";
+			productReference = 5620F8702A0405E70009A24E /* Track Your Life.app */;
+			productType = "com.apple.product-type.application";
+		};
+		5620F87F2A0405EA0009A24E /* Track Your LifeTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5620F8972A0405EA0009A24E /* Build configuration list for PBXNativeTarget "Track Your LifeTests" */;
+			buildPhases = (
+				5620F87C2A0405EA0009A24E /* Sources */,
+				5620F87D2A0405EA0009A24E /* Frameworks */,
+				5620F87E2A0405EA0009A24E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5620F8822A0405EA0009A24E /* PBXTargetDependency */,
+			);
+			name = "Track Your LifeTests";
+			productName = "Track Your LifeTests";
+			productReference = 5620F8802A0405EA0009A24E /* Track Your LifeTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		5620F8892A0405EA0009A24E /* Track Your LifeUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5620F89A2A0405EA0009A24E /* Build configuration list for PBXNativeTarget "Track Your LifeUITests" */;
+			buildPhases = (
+				5620F8862A0405EA0009A24E /* Sources */,
+				5620F8872A0405EA0009A24E /* Frameworks */,
+				5620F8882A0405EA0009A24E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				5620F88C2A0405EA0009A24E /* PBXTargetDependency */,
+			);
+			name = "Track Your LifeUITests";
+			productName = "Track Your LifeUITests";
+			productReference = 5620F88A2A0405EA0009A24E /* Track Your LifeUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5620F8682A0405E70009A24E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					5620F86F2A0405E70009A24E = {
+						CreatedOnToolsVersion = 14.3;
+					};
+					5620F87F2A0405EA0009A24E = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = 5620F86F2A0405E70009A24E;
+					};
+					5620F8892A0405EA0009A24E = {
+						CreatedOnToolsVersion = 14.3;
+						TestTargetID = 5620F86F2A0405E70009A24E;
+					};
+				};
+			};
+			buildConfigurationList = 5620F86B2A0405E70009A24E /* Build configuration list for PBXProject "Track Your Life" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5620F8672A0405E70009A24E;
+			productRefGroup = 5620F8712A0405E70009A24E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5620F86F2A0405E70009A24E /* Track Your Life */,
+				5620F87F2A0405EA0009A24E /* Track Your LifeTests */,
+				5620F8892A0405EA0009A24E /* Track Your LifeUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5620F86E2A0405E70009A24E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5620F87B2A0405EA0009A24E /* Preview Assets.xcassets in Resources */,
+				5620F8782A0405EA0009A24E /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5620F87E2A0405EA0009A24E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5620F8882A0405EA0009A24E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5620F86C2A0405E70009A24E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5620F8762A0405E70009A24E /* ContentView.swift in Sources */,
+				5620F8742A0405E70009A24E /* Track_Your_LifeApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5620F87C2A0405EA0009A24E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5620F8852A0405EA0009A24E /* Track_Your_LifeTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5620F8862A0405EA0009A24E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5620F88F2A0405EA0009A24E /* Track_Your_LifeUITests.swift in Sources */,
+				5620F8912A0405EA0009A24E /* Track_Your_LifeUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		5620F8822A0405EA0009A24E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5620F86F2A0405E70009A24E /* Track Your Life */;
+			targetProxy = 5620F8812A0405EA0009A24E /* PBXContainerItemProxy */;
+		};
+		5620F88C2A0405EA0009A24E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5620F86F2A0405E70009A24E /* Track Your Life */;
+			targetProxy = 5620F88B2A0405EA0009A24E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		5620F8922A0405EA0009A24E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		5620F8932A0405EA0009A24E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		5620F8952A0405EA0009A24E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Track Your Life/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "https---github.com-marimeireles-track-your-life.Track-Your-Life";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5620F8962A0405EA0009A24E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Track Your Life/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "https---github.com-marimeireles-track-your-life.Track-Your-Life";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		5620F8982A0405EA0009A24E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "https---github.com-marimeireles-track-your-life.Track-Your-LifeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Track Your Life.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Track Your Life";
+			};
+			name = Debug;
+		};
+		5620F8992A0405EA0009A24E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "https---github.com-marimeireles-track-your-life.Track-Your-LifeTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Track Your Life.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Track Your Life";
+			};
+			name = Release;
+		};
+		5620F89B2A0405EA0009A24E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "https---github.com-marimeireles-track-your-life.Track-Your-LifeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Track Your Life";
+			};
+			name = Debug;
+		};
+		5620F89C2A0405EA0009A24E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "https---github.com-marimeireles-track-your-life.Track-Your-LifeUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Track Your Life";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5620F86B2A0405E70009A24E /* Build configuration list for PBXProject "Track Your Life" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5620F8922A0405EA0009A24E /* Debug */,
+				5620F8932A0405EA0009A24E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5620F8942A0405EA0009A24E /* Build configuration list for PBXNativeTarget "Track Your Life" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5620F8952A0405EA0009A24E /* Debug */,
+				5620F8962A0405EA0009A24E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5620F8972A0405EA0009A24E /* Build configuration list for PBXNativeTarget "Track Your LifeTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5620F8982A0405EA0009A24E /* Debug */,
+				5620F8992A0405EA0009A24E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5620F89A2A0405EA0009A24E /* Build configuration list for PBXNativeTarget "Track Your LifeUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5620F89B2A0405EA0009A24E /* Debug */,
+				5620F89C2A0405EA0009A24E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5620F8682A0405E70009A24E /* Project object */;
+}

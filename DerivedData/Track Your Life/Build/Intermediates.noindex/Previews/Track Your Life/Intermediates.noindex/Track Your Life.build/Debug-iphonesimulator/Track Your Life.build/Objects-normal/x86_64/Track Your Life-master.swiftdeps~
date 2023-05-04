@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "dbf6efee054b204b83c866d828ca16440750e9a565deea8c1c0e45c712a426fb"
+build_start_time: [1683213947, 205718000]
+build_end_time: [1683213947, 262570000]
+inputs:
+  "/Users/mariana/dev/Track Your Life/Track Your Life/ContentView.swift": !private [1683213927, 614414829]
+  "/Users/mariana/dev/Track Your Life/Track Your Life/Track_Your_LifeApp.swift": !private [1683213927, 605933809]
