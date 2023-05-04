@@ -6,6 +6,34 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>00D9A129-4122-4696-B9D0-B62CE1366638</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>00D9A129-4122-4696-B9D0-B62CE1366638.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL21hcmlhbmFcL2RldlwvVHJhY2sgWW91ciBMaWZlXC9UcmFjayBZb3VyIExpZmUueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI1NjIwRjg2RjJBMDQwNUU3MDAwOUEyNEUifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704908675.52225602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>00D9A129-4122-4696-B9D0-B62CE1366638</string>
+		</dict>
 		<key>017EFD15-06BC-4C53-9570-36891B7A77F1</key>
 		<dict>
 			<key>className</key>
@@ -118,6 +146,62 @@
 			<key>uniqueIdentifier</key>
 			<string>0462F0DF-B6EB-434B-9A63-5F55D2151502</string>
 		</dict>
+		<key>065B24EA-3037-4B9B-A10B-63DF4B3A6EB3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>065B24EA-3037-4B9B-A10B-63DF4B3A6EB3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9tYXJpYW5hXC9kZXZcL1RyYWNrIFlvdXIgTGlmZVwvVHJhY2sgWW91ciBMaWZlLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908836.75140595</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>065B24EA-3037-4B9B-A10B-63DF4B3A6EB3</string>
+		</dict>
+		<key>0FF93EC8-F4F0-4996-A411-A4E281AC7C8B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FF93EC8-F4F0-4996-A411-A4E281AC7C8B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908675.52225602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>0FF93EC8-F4F0-4996-A411-A4E281AC7C8B</string>
+		</dict>
 		<key>1568A455-5A44-49F3-A532-773F564B848B</key>
 		<dict>
 			<key>className</key>
@@ -145,6 +229,34 @@
 			<string>Build for Previews Track Your Life</string>
 			<key>uniqueIdentifier</key>
 			<string>1568A455-5A44-49F3-A532-773F564B848B</string>
+		</dict>
+		<key>16A9F820-5ED0-415B-9775-0DBF3B00B441</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>16A9F820-5ED0-415B-9775-0DBF3B00B441.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9tYXJpYW5hXC9kZXZcL1RyYWNrIFlvdXIgTGlmZVwvVHJhY2sgWW91ciBMaWZlLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908675.52225602</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>16A9F820-5ED0-415B-9775-0DBF3B00B441</string>
 		</dict>
 		<key>1A804D5A-364C-43FF-815F-3FB107E3B2A4</key>
 		<dict>
@@ -257,6 +369,34 @@
 			<string>Build for Previews Track Your Life</string>
 			<key>uniqueIdentifier</key>
 			<string>214E4FBD-D3D7-4D83-ADC9-C4C27D377B59</string>
+		</dict>
+		<key>23050E2C-0438-4233-89F1-A6DCC3F28964</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>23050E2C-0438-4233-89F1-A6DCC3F28964.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908836.75140595</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>23050E2C-0438-4233-89F1-A6DCC3F28964</string>
 		</dict>
 		<key>24A6FCD0-2BC6-4D01-98CB-CB7F1D4A53B3</key>
 		<dict>
@@ -566,6 +706,62 @@
 			<key>uniqueIdentifier</key>
 			<string>5487CEFD-91AC-411B-8281-F78D2535F8B5</string>
 		</dict>
+		<key>556ED1DA-E075-4E92-81BC-D286F3988203</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>556ED1DA-E075-4E92-81BC-D286F3988203.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9tYXJpYW5hXC9kZXZcL1RyYWNrIFlvdXIgTGlmZVwvVHJhY2sgWW91ciBMaWZlLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704909076.13036096</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>556ED1DA-E075-4E92-81BC-D286F3988203</string>
+		</dict>
+		<key>56DEEF44-964F-4C3B-B5E1-9500C77645F7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>56DEEF44-964F-4C3B-B5E1-9500C77645F7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL21hcmlhbmFcL2RldlwvVHJhY2sgWW91ciBMaWZlXC9UcmFjayBZb3VyIExpZmUueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI1NjIwRjg2RjJBMDQwNUU3MDAwOUEyNEUifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704909076.13036096</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>56DEEF44-964F-4C3B-B5E1-9500C77645F7</string>
+		</dict>
 		<key>61625C00-F5C7-4B0D-BCEA-7FDBDAF3E108</key>
 		<dict>
 			<key>className</key>
@@ -593,6 +789,34 @@
 			<string>Build for Previews Track Your Life</string>
 			<key>uniqueIdentifier</key>
 			<string>61625C00-F5C7-4B0D-BCEA-7FDBDAF3E108</string>
+		</dict>
+		<key>622A47B1-DEF5-495A-A29C-B3827E0B5E2F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>622A47B1-DEF5-495A-A29C-B3827E0B5E2F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL21hcmlhbmFcL2RldlwvVHJhY2sgWW91ciBMaWZlXC9UcmFjayBZb3VyIExpZmUueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI1NjIwRjg2RjJBMDQwNUU3MDAwOUEyNEUifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704908762.85176599</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>622A47B1-DEF5-495A-A29C-B3827E0B5E2F</string>
 		</dict>
 		<key>6BDCBAC2-4AF6-4E4C-9A8D-935620B2B7CB</key>
 		<dict>
@@ -677,6 +901,34 @@
 			<string>Build for Previews Track Your Life</string>
 			<key>uniqueIdentifier</key>
 			<string>74840297-42EF-4C06-9D1C-F40D2A0E1318</string>
+		</dict>
+		<key>74D172FB-C25F-4D1A-9699-B00493B5C3F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>74D172FB-C25F-4D1A-9699-B00493B5C3F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL21hcmlhbmFcL2RldlwvVHJhY2sgWW91ciBMaWZlXC9UcmFjayBZb3VyIExpZmUueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI1NjIwRjg2RjJBMDQwNUU3MDAwOUEyNEUifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704908796.59017897</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>74D172FB-C25F-4D1A-9699-B00493B5C3F9</string>
 		</dict>
 		<key>7C7B2F2A-59E3-4C0F-8DA8-4ACB7DFDDB2A</key>
 		<dict>
@@ -789,6 +1041,62 @@
 			<string>Build for Previews Track Your Life</string>
 			<key>uniqueIdentifier</key>
 			<string>7EC957AA-1AFE-4FE2-8730-1682E00D1ECB</string>
+		</dict>
+		<key>804D72D8-A8C7-4B61-A51A-4138B886FB1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>804D72D8-A8C7-4B61-A51A-4138B886FB1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908796.59017897</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>804D72D8-A8C7-4B61-A51A-4138B886FB1B</string>
+		</dict>
+		<key>811F5FB7-84D7-48C8-9C44-55E769F52B22</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>811F5FB7-84D7-48C8-9C44-55E769F52B22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908762.85176599</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>811F5FB7-84D7-48C8-9C44-55E769F52B22</string>
 		</dict>
 		<key>816F81B2-C0EC-4E22-BE64-6A6787B06B02</key>
 		<dict>
@@ -1098,6 +1406,34 @@
 			<key>uniqueIdentifier</key>
 			<string>BE12ADEC-547F-4745-9F0E-6775FB61A16C</string>
 		</dict>
+		<key>D70CECDD-D203-475F-9822-65C6F2DDAED5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D70CECDD-D203-475F-9822-65C6F2DDAED5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9tYXJpYW5hXC9kZXZcL1RyYWNrIFlvdXIgTGlmZVwvVHJhY2sgWW91ciBMaWZlLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908762.85176599</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>D70CECDD-D203-475F-9822-65C6F2DDAED5</string>
+		</dict>
 		<key>DB264CA9-436D-44C6-8A55-1D4B209FB857</key>
 		<dict>
 			<key>className</key>
@@ -1126,6 +1462,34 @@
 			<key>uniqueIdentifier</key>
 			<string>DB264CA9-436D-44C6-8A55-1D4B209FB857</string>
 		</dict>
+		<key>DE7933F0-C682-4D67-B21D-39E2C86A0BD1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DE7933F0-C682-4D67-B21D-39E2C86A0BD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJ1aWxkU3lzdGVtVGFzayI6e319LCJidWlsZFN5c3RlbVRhc2tfYnVpbGRUYXNrIjoiUHJlcGFyZSBidWlsZCJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704909076.13036096</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>DE7933F0-C682-4D67-B21D-39E2C86A0BD1</string>
+		</dict>
 		<key>E11FAECF-DE03-48B0-BB7D-5FD844F8A4B2</key>
 		<dict>
 			<key>className</key>
@@ -1153,6 +1517,34 @@
 			<string>Build for Previews Track Your Life</string>
 			<key>uniqueIdentifier</key>
 			<string>E11FAECF-DE03-48B0-BB7D-5FD844F8A4B2</string>
+		</dict>
+		<key>E4C1AD90-25D1-48EF-8A72-674C91815E8F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E4C1AD90-25D1-48EF-8A72-674C91815E8F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludFByb3ZpZGVyIjp7fX0sImJsdWVwcmludFByb3ZpZGVyX3Byb3ZpZGVyRmlsZVBhdGhTdHJpbmciOiJcL1VzZXJzXC9tYXJpYW5hXC9kZXZcL1RyYWNrIFlvdXIgTGlmZVwvVHJhY2sgWW91ciBMaWZlLnhjb2RlcHJvaiJ9</string>
+			<key>timeStartedRecording</key>
+			<real>704908796.59017897</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>E4C1AD90-25D1-48EF-8A72-674C91815E8F</string>
 		</dict>
 		<key>E859FB1E-76C3-4E30-8884-93CB4240AC28</key>
 		<dict>
@@ -1237,6 +1629,34 @@
 			<string>Build for Previews Track Your Life</string>
 			<key>uniqueIdentifier</key>
 			<string>F08BD841-2102-487B-8039-7796364D96B4</string>
+		</dict>
+		<key>F0F92EB3-C6CC-4BDD-9C26-B20836E52247</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F0F92EB3-C6CC-4BDD-9C26-B20836E52247.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>eyJ0eXBlIjp7ImJsdWVwcmludCI6e319LCJibHVlcHJpbnRfcHJvdmlkZXJGaWxlUGF0aFN0cmluZyI6IlwvVXNlcnNcL21hcmlhbmFcL2RldlwvVHJhY2sgWW91ciBMaWZlXC9UcmFjayBZb3VyIExpZmUueGNvZGVwcm9qIiwiYmx1ZXByaW50X2JsdWVwcmludElkZW50aWZpZXIiOiI1NjIwRjg2RjJBMDQwNUU3MDAwOUEyNEUifQ==</string>
+			<key>timeStartedRecording</key>
+			<real>704908836.75140595</real>
+			<key>timeStoppedRecording</key>
+			<real>63113904000</real>
+			<key>title</key>
+			<string>Build for Previews Track Your Life</string>
+			<key>uniqueIdentifier</key>
+			<string>F0F92EB3-C6CC-4BDD-9C26-B20836E52247</string>
 		</dict>
 		<key>F3126189-0353-43C6-AC0B-D088D881282F</key>
 		<dict>

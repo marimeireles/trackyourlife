@@ -4,7 +4,19 @@
     "Localizable": [
       {
         "comment": "",
+        "key": "Edit Habit"
+      },
+      {
+        "comment": "",
         "key": "Habit name"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
       },
       {
         "comment": "",

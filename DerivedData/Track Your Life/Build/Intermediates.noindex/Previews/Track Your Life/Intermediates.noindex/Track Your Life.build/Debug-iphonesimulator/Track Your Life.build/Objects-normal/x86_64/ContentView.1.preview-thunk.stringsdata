@@ -9,6 +9,18 @@
       {
         "comment": "",
         "key": "Add Habit"
+      },
+      {
+        "comment": "",
+        "key": "Edit Habit"
+      },
+      {
+        "comment": "",
+        "key": "Save"
+      },
+      {
+        "comment": "",
+        "key": "Cancel"
       }
     ]
   },

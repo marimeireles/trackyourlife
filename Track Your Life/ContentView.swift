@@ -3,7 +3,7 @@ import Combine
 
 struct Habit: Identifiable, Codable {
     let id = UUID()
-    let name: String
+    var name: String
     var isComplete: Bool = false
     let creationDate: Date
 }
@@ -21,8 +21,22 @@ class HabitViewModel: ObservableObject {
     func addHabit(name: String) {
         let newHabit = Habit(name: name, creationDate: currentDate)
         habits.append(newHabit)
+        print("☀️☀️☀️")
         saveData()
     }
+    
+    func deleteHabit(habitId: UUID) {
+           if let index = habits.firstIndex(where: { $0.id == habitId }) {
+               habits.remove(at: index)
+           }
+       }
+
+       func editHabit(habitId: UUID, newName: String) {
+           if let index = habits.firstIndex(where: { $0.id == habitId }) {
+               habits[index].name = newName
+               saveData()
+           }
+       }
     
     func toggleHabitCompletion(habitId: UUID) {
         if let index = habits.firstIndex(where: { $0.id == habitId }) {
@@ -68,9 +82,41 @@ class HabitViewModel: ObservableObject {
         }
 }
 
+struct EditHabitAlert: View {
+    @Binding var isPresented: Bool
+    @Binding var habitName: String
+    var onSave: () -> Void
+
+    var body: some View {
+        VStack {
+            Text("Edit Habit")
+                .font(.headline)
+            TextField("Habit name", text: $habitName)
+                .textFieldStyle(RoundedBorderTextFieldStyle())
+                .padding()
+            HStack {
+                Button("Save") {
+                    onSave()
+                    isPresented = false
+                }
+                Button("Cancel") {
+                    isPresented = false
+                }
+            }
+        }
+        .padding()
+    }
+}
+
+
 struct ContentView: View {
     @StateObject private var habitViewModel = HabitViewModel()
     @State private var habitName: String = ""
+    @State private var showActionSheet = false
+    @State private var showAlert = false
+    @State private var showEditAlert: Bool = false
+    @State private var selectedHabitId: UUID?
+    @State private var editedHabitName: String = ""
     
     var dateFormatter: DateFormatter {
         let formatter = DateFormatter()
@@ -109,10 +155,17 @@ struct ContentView: View {
             }
             .padding()
             
+            
             List {
                 ForEach(habitViewModel.habitsForDate(habitViewModel.currentDate)) { habit in
                     HStack {
                         Text(habit.name)
+                            .onTapGesture {
+                                print("☀️☀️☀️")
+                                self.selectedHabitId = habit.id
+                                self.editedHabitName = habit.name
+                                self.showEditAlert = true
+                            }
                         Spacer()
                         Image(systemName: habit.isComplete ? "checkmark.circle.fill" : "circle")
                             .resizable()
@@ -120,6 +173,13 @@ struct ContentView: View {
                             .onTapGesture {
                                 habitViewModel.toggleHabitCompletion(habitId: habit.id)
                             }
+                    }
+                }
+            }
+            .sheet(isPresented: $showEditAlert) {
+                EditHabitAlert(isPresented: self.$showEditAlert, habitName: self.$editedHabitName) {
+                    if let habitId = self.selectedHabitId {
+                        self.habitViewModel.editHabit(habitId: habitId, newName: self.editedHabitName)
                     }
                 }
             }
