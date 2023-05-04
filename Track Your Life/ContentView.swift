@@ -11,56 +11,57 @@ struct Habit: Identifiable, Codable {
 class HabitViewModel: ObservableObject {
     @Published private(set) var habits: [Habit] = []
     @Published var currentDate: Date = Date()
-    
+
     private let fileName = "habits.json"
-    
+
     init() {
         loadData()
     }
-    
+
     func addHabit(name: String) {
         let newHabit = Habit(name: name, creationDate: currentDate)
         habits.append(newHabit)
-        print("☀️☀️☀️")
         saveData()
+        print("☀️☀️☀️")
     }
-    
-    func deleteHabit(habitId: UUID) {
-           if let index = habits.firstIndex(where: { $0.id == habitId }) {
-               habits.remove(at: index)
-           }
-       }
 
-       func editHabit(habitId: UUID, newName: String) {
-           if let index = habits.firstIndex(where: { $0.id == habitId }) {
-               habits[index].name = newName
-               saveData()
-           }
-       }
-    
+    func deleteHabit(habitId: UUID) {
+        if let index = habits.firstIndex(where: { $0.id == habitId }) {
+            habits.remove(at: index)
+        }
+    }
+
+    func editHabit(habitId: UUID, newName: String) {
+        if let index = habits.firstIndex(where: { $0.id == habitId }) {
+            habits[index].name = newName
+            saveData()
+        }
+    }
+
     func toggleHabitCompletion(habitId: UUID) {
         if let index = habits.firstIndex(where: { $0.id == habitId }) {
             habits[index].isComplete.toggle()
             saveData()
         }
     }
-    
+
     func loadData() {
         let fileManager = FileManager.default
         let documentDirectory = try! fileManager.url(for: .documentDirectory, in: .userDomainMask, appropriateFor: nil, create: false)
         let fileURL = documentDirectory.appendingPathComponent(fileName)
-        
+
         if fileManager.fileExists(atPath: fileURL.path) {
             do {
                 let data = try Data(contentsOf: fileURL)
                 let decoder = JSONDecoder()
                 self.habits = try decoder.decode([Habit].self, from: data)
+                print(self.habits)
             } catch {
                 print("Error loading data: \(error)")
             }
         }
     }
-    
+
     func saveData() {
         let encoder = JSONEncoder()
         do {
@@ -73,7 +74,7 @@ class HabitViewModel: ObservableObject {
             print("Error saving data: \(error)")
         }
     }
-    
+
     func habitsForDate(_ date: Date) -> [Habit] {
             return habits.filter {
                 Calendar.current.isDate($0.creationDate, inSameDayAs: date) ||
@@ -108,7 +109,6 @@ struct EditHabitAlert: View {
     }
 }
 
-
 struct ContentView: View {
     @StateObject private var habitViewModel = HabitViewModel()
     @State private var habitName: String = ""
@@ -117,13 +117,13 @@ struct ContentView: View {
     @State private var showEditAlert: Bool = false
     @State private var selectedHabitId: UUID?
     @State private var editedHabitName: String = ""
-    
+
     var dateFormatter: DateFormatter {
         let formatter = DateFormatter()
         formatter.dateStyle = .medium
         return formatter
     }
-    
+
     var body: some View {
         VStack {
             HStack {
@@ -142,7 +142,7 @@ struct ContentView: View {
                 }
             }
             .padding()
-            
+
             HStack {
                 TextField("Habit name", text: $habitName)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
@@ -154,8 +154,7 @@ struct ContentView: View {
                 }
             }
             .padding()
-            
-            
+
             List {
                 ForEach(habitViewModel.habitsForDate(habitViewModel.currentDate)) { habit in
                     HStack {
@@ -176,6 +175,7 @@ struct ContentView: View {
                     }
                 }
             }
+
             .sheet(isPresented: $showEditAlert) {
                 EditHabitAlert(isPresented: self.$showEditAlert, habitName: self.$editedHabitName) {
                     if let habitId = self.selectedHabitId {
